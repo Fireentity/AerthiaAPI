@@ -1,4 +1,4 @@
-package it.aerthia.core.blockbreaking.events;
+package it.aerthia.api;
 
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
